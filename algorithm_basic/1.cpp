@@ -15,7 +15,7 @@
 
 //整数二分
 
-
+////////////////////////////////s
 //浮点二分
 #include<iostream>
 using namespace std;
